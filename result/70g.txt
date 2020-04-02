@@ -1,0 +1,893 @@
+70g
+English
+1.
+A
+acknowledge 认可， 承认remark 评论perceive 理解，认知mention 提及
+
+2.
+G
+撇号后面接名词，不能接介词of
+
+3.
+C
+Her Statue of Sojourner Truth: a nineteenth-century abolitionist and women’s rights advocate, stands twelve feet tall and weighs two tons. 主语：Her statue of Sojourner Truth谓语：stands 主谓中间部分为修饰成分（a nineteenth-century abolitionist and women’s rights advocate），前后符号要保持一致，双逗号或双破折号
+
+4.
+F
+判断标准：时间词，上下文前文动词时态：一般现在时（stands, weighs）
+
+5.
+C
+前文明确指出Sojourner Truth这个雕像体积很大，所以这里应该选择“即使从事于这么大规模，…”
+
+6.
+J
+create=produce=make所以，前三个选项中都有语义重复部分，要选择更简洁的表达，即J。
+
+7.
+C
+前后文均为现在时（前句the rubber mold is carefully removed…后半句the rubber is discarded…）有些同学可能会觉得这里应该用被动形式，但这里没有强调wax是被冷却。 
+
+8.
+G
+当所指代的具体名词和代词同时出现时，选择具体名词，为了指代更加明确。
+
+9.
+A
+Several days 包含A time period/duration的意思。
+
+10.
+G
+题目要求找出能够有效介绍段落的句子，即段落的主旨，所以需要读整段理解大意：Allen花了四年时间完成Alex Haley纪念碑，花了一年时间仅仅去完成Sojourner Truth雕像的泥土模子…。
+
+11.
+D
+本题考查介词短语in his hands的位置。在句子中，in his hands修饰的是book，作book的定语，所以应放在book之后。
+
+12.
+H
+代词，句子的主语为Allen，Sojourner Truth statue指代Allen的雕像。
+
+13.
+C
+句子中提到Fredrick Douglass的雕像出现在电影中，而段落的大意为：Allen在做Sojourner Truth statue时对细节的重视。
+
+14.
+G
+To mimic the coarse fabric in Truth’s dress, for which Allen pounded the clay with a mallet covered with children wire. 句子中Allen为主语，pounded为谓语动词。
+
+15.
+A
+需要理解划线句子在文章中的作用。划线句子由because开始意在解释说明为什么the statues of Truth and Haley公开展示。所以应该保留使整个句子表达更清晰。
+
+16.
+H
+Important 重要的Prominent 突出的Abundant 丰富的Major 主要的
+
+17.
+B
+需要理解划线句子在文章中的作用。划线句子由括号括起，括号的作用为解释说明括号前的内容—Stella Maris。
+
+18.
+J
+前句：“北极星被称为Lodestar, the Steering Star, and Stella Maris。”后句：“古印度人相信是Golden Peg将宇宙统一的。”两句为并列关系，没有因果或转折关系。
+
+19.
+B
+需要理解划线句子在文章中的作用。划线句子由so引导意在解释说明前半句内容。
+
+20.
+F
+Hipparchus noticed that the stars had seemingly shifted from positions noted in Babylonian records from many centuries earlier. Noted为过去分词作定语，逻辑主语为positions。
+
+21.
+A
+A wobbling in Earth’s axis of rotation, called precession, causes this variation in position. 句子主语为A wobbling in Earth’s axis of rotation，谓语为causes，而主谓之间的部分则为修饰成分，修饰成分出现时，若用符号隔开，需要前后符号统一，双逗号or双破折号。
+
+22.
+G
+句子的主语为A wobbling in Earth’s axis of rotation，所以谓语动词要用单数。时态要与上文统一，现在时。
+
+23.
+D
+排序题需要找到句子中的关键词，包括代词，具体的名词等本题中需要注意的为”this” “precession” “variation”。前文中出现precession在第四句，而出现varied在第三句。所以this variation应该出现在第三句后才有指代的意义。
+
+24.
+J
+rotate=round and round=twirl=spinning
+
+25.
+A
+前后两句有两套主谓，所以需要将两个句子用句号断开。As a result不能连接两个句子。
+
+26.
+J
+As a result, the North Pole’s position in relation to the stars change. 句子的主语是the North Pole’s postion, 单数，所以谓语动词应为第三人称单数，即changes。
+
+27.
+B
+句子主语：Astronomers谓语：knowthat引导宾语从句，从句主语：Thuban, 谓语：was句子主干间不能用逗号隔开。
+
+28.
+H
+先关注时间词，再看上下文three thousands years from now “从现在开始的三千年”表示未来三千年以前表达是 three thousand years ago
+
+29.
+C
+划线部分指代numerous stars，复数，所以应该为their。
+
+30.
+F
+较难的阅读题需要读懂段意。当地球在转动时，地轴沿着一个巨大的圈转动，需要26000年完成。而在上一段提到，这与Babylonian records记录的位置是偏移的。但当26000年后，地轴将完成一轮，回归Babylonian records记录的位置。
+
+31.
+A
+主语my sister and I 谓语 used to go句子主干间不能用逗号隔开。
+
+32.
+F
+划线部分前后均为完整句子，且无明显的因果关系。所以需要用句号断开。
+
+33.
+D
+walk为行走vault, skip均为跳跃duck为弯腰走过原文中______ under overhanging foliage. 有under这个词，所以不能选择vault或者skip来表示从foliage上面跳过，来表示它的位置低。
+
+34.
+F
+读题时，需要画出重点词narration（叙述，描写）。后三个选项均为fact。
+
+35.
+A
+they were_________ 表语不能为副词，可以是形容词副词修饰形容词需要放在形容词前
+
+36.
+H
+outlines指代的是cylinders的轮廓，所以应该是their独立主格：由独立的主语+分词/形容词/副词/动词不定式/介词短语作主句的状语。
+
+37.
+B
+需要划出句子的关键词：代词，具体名词和表示语态的词本句话的关键词：“At first”, “they”
+
+38.
+G
+分词作状语的逻辑主语要与主句主语一致。主句主语为these fossilswhere we grow up为地点状语从句
+
+39.
+D
+“Eons ago” 时间状语修饰整个宾语从句，应放在that后或句子结尾。
+
+40.
+H
+分号前后均为完整句冒号前为完整句
+
+41.
+A
+I imagined crinoids waving in the current, then sinking into sediment that eventually turned into limestone.sinking into…现在分词作状语。用副词then与主句连接为表示顺承关系。
+
+42.
+J
+前句：“我想象海百合在溪流中摇摆，然后陷入沉积中最后转变成石灰石。”后句：“我们挖出来的化石是这些古代茎干的一部分，随着时间的流逝凝结了。”前后位简单的并列关系，没有转折或者“否则”的关系。
+
+43.
+C
+freeze 作不及物动词—“结冰”作及物动词—“冻住”
+
+44.
+F
+stride “步幅”
+
+45.
+B
+动宾结构make necklaces and bracelets不能用符号分开。
+
+46.
+J
+主语形式：名词、代词、动名词、不定式、主语从句meant的主语不能为people，应该为travelling这一动作
+
+47.
+D
+题目要求保持冒号后句子的形式，并提供specific example。冒号后两句为the weather was harsh. ________________. Food was scarce. 均为主系表的句式，且表语为adj。
+
+48.
+H
+题目要求给出一个对“eating house”的解释，关键词为explanation。H表示的是eating house建立的原因是—铁路旅行的增加。
+
+49.
+D
+在这里由于出现an，所以后面要用名词单数的所有格。
+
+50.
+H
+more than 要成对出现least是little的最高级 不能与than连用
+
+51.
+B
+需要了解前两段及本段大意。前两段强调eating house的出现和形式。本段强调的是eating house的转变。选项B中the scene指代的为前文描述的场景，而其余选项中均有无关信息。
+
+52.
+H
+句子的主语为the Harvey House chain of restaurants. 非谓语动词doing, to do不能作谓语所以F、J选项均不对。本句话中未表现虚拟语气（could have done“本应该…”）。 
+
+53.
+D
+谓语动词确定，考主语谓语动词为would offer，主语在意思上只能为Santa Fe railroad. 
+
+54.
+G
+句子主语A cadre of young women 谓语动词served 主谓之间的修饰部分需要符号一致。
+
+55.
+B
+划线部分前后均为完整句子，所以需要用分号隔开。
+
+56.
+F
+当出现的修改句子比原文句子更具体且符合主旨时，选择更具体的描述。
+
+57.
+D
+bargain-cost=inexpensive=low-priced=affordable
+
+58.
+G
+划线部分用括号括起，括号的作用是加入解释成分。
+
+59.
+C
+第五句—And incredible food—较难。此句没有具体描述food，所以不能被放在第二部分—the description of the type of meals offered. 
+
+60.
+J
+wherever引导的时间状语从句，需要后面的主句完整
+
+61.
+D
+谓语动词为单数continues所以主语需要是单数形式。demanding adj 不能作动名词
+
+62.
+G
+主语：Aquaculture 谓语: is , 主谓之间的是修饰成分，需要符号一致。
+
+63.
+C
+描述具体的句子优先选。
+
+64.
+H
+前句句子完整，后面句子缺少主语，所以后面为修饰成分。
+
+65.
+D
+句子主语Relying less on wild-caught fish 划线部分需要选择谓语动词。
+
+66.
+F
+前句提到“依靠野外捕捉的鱼是一项对生态系统有益的方法…”本题要求更好的承上启下，应选择可进一步解释前句的选项，即“ecological impact”
+
+67.
+A
+句子主语：the ecological impact of aquaculture谓语：depends on 谓语动词和介词不能用逗号隔开。
+
+68.
+F
+双破折号用于解释说明前面的部分，即Mussels and oysters。段落主旨为物种对水产业的生态影响。所以要进一步解释为什么Mussels and oysters可以benefit the coastal environment。
+
+69.
+A
+修饰成分用双逗号隔开，表示不强调。
+
+70.
+J
+disease=make ill=sicknesses
+
+71.
+B
+主语that waste前用逗号隔开的部分为状语。能够充当状语的为形容词，过去分词，现在分词，状语从句等。what只能引导主语从句
+
+72.
+J
+题目要求对比养殖shrimp和catfish的区别。文章中提到养殖catfish对环境的影响小，这里在叙述shrimp应选择体现对生态系统影响大的选项，即J。
+
+73.
+D
+前后两句为并列关系。
+
+74.
+G
+选项中出现具体指代的名词时，要首先选择名词，使指代更明确。
+
+75.
+C
+文章标题为Aquaculture: A solution or a problem?文章主旨为讨论Aquaculture的好坏。
+
+Math
+1.
+B
+1.考点：函数$3x=20-32=-12$，所以$x=-12\div3=-4$。选B。
+
+2.
+J
+2.考点：概率$P(not red)=P(green)+P(blue)=\frac{36+22}{100}=\frac{58}{100}=\frac{29}{50}$。选J。
+
+3.
+C
+3.考点：方程$6x=1.03-7.99=-6.96$。所以$x=-6.96\div6=-1.16$。选C。
+
+4.
+G
+4.考点：平面几何$\angle   B=180\circ-\angle   BAC-\angle   BCA=180\circ-(180\circ-150\circ)-(180\circ-81\circ)=51\circ$。选G。
+
+5.
+E
+5.考点：方程$discriminant=b^{2}-4ac=36+4\times   16=100$，所以$x=\frac{6+10}{2}=8$或$ x=\frac{6-10}{2}=-2$。选E。
+
+6.
+G
+6.考点：绝对值两个绝对值内的值分别为二和负四，因此取掉绝对值符号后为二减四等于负二，选G。
+
+7.
+C
+7.考点：四则运算$70\times0.8\times   1.06=59.36$。选C。
+
+8.
+K
+8.考点：指数把x和y的值分别代入原式，的到答案八十一。选K。
+
+9.
+C
+9.考点：四则运算两分钟有二十四个五秒，因此可以行进二十四乘十一等于二百六十四英寸，换算成英尺为$264\div12=22$。选C。
+
+10.
+H
+10.考点：四则运算$24\times   0.5+24\times   (\frac{2}{3})+2\times   24\times   (\frac{5}{6})=68$。选H。
+
+11.
+A
+11.考点：平面直角坐标系可能是正方形顶点的坐标应该在点（6，4）的正左右上下三个单位，为（3，4）、（9，4）、（6，7）和（6，1）。选A。
+
+12.
+K
+12.考点：四则运算一个蛋糕需要八分之七勺的香草提取物，两个蛋糕就需要八分之十四、即四分之七、一又四分之三。选K。
+
+13.
+C
+13.考点：平面直角坐标系运用中点公式，中点横／纵坐标为断电横／纵坐标之和的二分之一。选C。
+
+14.
+G
+14.考点：平面几何如果角一等于角七，两条线不一定平行。选G。
+
+15.
+C
+15.考点：平面几何直角三角形面积为底边乘高再除以二。选C。
+
+16.
+K
+16.考点：一元一次函数负三的平方加三加一等于十三。选K。
+
+17.
+D
+17.考点：平面几何长方形面积为$25\times   16=200$，因此正方形边长为根号四百、即二十。选D。
+
+18.
+G
+18.考点：图表根据图表，零五年九月对应的纵坐标是二十。选G。
+
+19.
+D
+19.考点：统计$(6+15+20+30)\div4=17.75$。选D。
+
+20.
+F
+20.考点：四则运算$30\times 30000\times 0.07-33\times 30000\times 0.06=3600$。选F。
+
+21.
+A
+21.考点：指数同底指数相除，底数不变、指数相减。选A。
+
+22.
+K
+22.考点：指数二十四小时有一千四百四十分钟，因此每天总共的心跳数为一千四百四十乘七十等于一零零八零零、即一点零零八乘以十的五次方。选K。
+
+23.
+D
+23.考点：方程假设最短边长度为5x，因此其余两边长度为6x和9x，5x、6x和9x的和为20x，且等于一百，x等于五。最长边为九成五即四十五。选D。
+
+24.
+H
+24.考点：三角函数$(\cos{x})^{2}=1-(\sin{x})^{2}$，$\tan{x}=\sin{x}\div\cos{x}=\frac{20}{15}$。选H。
+
+25.
+E
+25.考点：平面几何直角三角形两条短边的平方和需要等于斜边的平方，只有E中的三个数字满足该条件。选E。
+
+26.
+G
+26.考点：一元一次函数$3y=1-2x$，$y=\frac{1-2x}{3}=\frac{-2}{3}x+\frac{1}{3}$，斜率为负三分之二。选G。
+
+27.
+C
+27.考点：多项式通过x的同指数项相加时的系数合并得到C中答案。选C。
+
+28.
+K
+28.考点：立体几何$270\times   0.5=135$。选K。
+
+29.
+C
+29.考点：四则运算$C=3.5\times   270+120=1065$。选C。
+
+30.
+J
+30.考点：平面几何天井的边长为$270\div18=15$，需要种植灌木的总长度为$15+18+18=51$。选J。
+
+31.
+C
+31.考点：三角函数$\sin{angle of ascent}=\frac{10000}{8\times   5280}$。选C。
+
+32.
+F
+32.考点：不等式把四个数字输入计算器并全部转化成小数，的到的比较关系为F中的不等式。选F。
+
+33.
+E
+33.考点：数列通过前两项，可以求出该等比数列的公比负二。第七项等于首项乘以负二的六方等于六十四。选E。
+
+34.
+F
+34.考点：平面几何应为三角形POM是斜边为PM的直角三角形，所以MO等于PO。选F。
+
+35.
+C
+35.考点：平面几何$20\times   \frac{3}{2}=30$。选B。
+
+36.
+G
+36.考点：四则运算根据题目的规定从百分之四十的S里减C。选G。
+
+37.
+B
+37.考点：三角函数$\tan{35}=\frac{PQ}{450}$，所以$PQ=450\times   \tan{35}$。选B。
+
+38.
+G
+38.考点：不等式$3x\geq2\times   3-5=1$，所以x大于三分之一。选G。
+
+39.
+E
+39.考点：四则运算两千五出一二点五等于一百，所以Lance每年捐助一千五百美元，四年她就捐助六千美元。选E。
+
+40.
+J
+40.考点：分式两个分式分子分别为$(x+2)\times   (x-2)$和$4\times(x-2)$，因此通分结果为J中结果。选J。
+
+41.
+C
+41.考点：平面几何$A=$πr^{2}=9π$。选C。
+
+42.
+F
+42.考点：函数$slope=(-5+3)(-2-10)=\frac{1}{4}$，利用斜率的同时再代入任意一点求出y轴截距为负二分之九。选F。
+
+43.
+E
+43.考点：统计$175-(117+89-53)=22$，所以$175-22=153$。选E。
+
+44.
+H
+44.考点：数论尝试个选项的数据，找到最大的能够被七和三整除的数，即九十八。选J。
+
+45.
+A
+45.考点：平面直角坐标系垂直解析式的斜率互为负倒数，即负四。选A。
+
+46.
+J
+46.考点：平面直角坐标系直升飞机的坐标为（4，2），紧急情况发生地的坐标为（－6，－22），运用两点间距离公式，求出答案26。选J。
+
+47.
+D
+47.考点：数论偶质数只能为2，因此x是2。y可以是7或者8。在10和20之间的完全平方数只有16，因此z是16。把y的两个值分别带入，求得答案64或56。选D。
+
+48.
+G
+48.考点：不等式该阴影部分在抛物线上且在直线线，所以该阴影部分为大于等于抛物线解析式且小于等于直线解析式。选G。
+
+49.
+A
+49.考点：方程将两个方程相减，的到$2y=-b-a$，所以$y=\frac{-b-a}{2}=-\frac{b+a}{2}$。选C。
+
+50.
+G
+50.考点：平面几何圆心角度为三百六十度，内含八个四十五度，因此该圆的周长含有八个π，通过圆的周长公式可以解出该圆半径的值。选G。
+
+51.
+A
+51.考点：方程通过第一个等式关系可以求出$b=3a$，把第二个等式关系中的b替换成a，可求出a的值为五分之二。选A。
+
+52.
+J
+52.考点：多项式列出二元一次方程的求根公式$(6^{2}-4k)^{0.5}$。当该式等于零时，题目中的二次多项式只有一个实数根，为九。选J。
+
+53.
+D
+53.考点：平面几何圆心角度在弧度制中为2π，而轮子行进了1.5π，因此Molly推进的距离为轮子周长的四分之三。选D。
+
+54.
+K
+54.考点：分式分式中分母不能等于零，而只有x等于正负一百的时候分母才有可能为零。选K。
+
+55.
+A
+55.考点：平面几何三角形AED 的面积是$0.5\times   BA\times   AD$，即长方形面积的二分之一。选A。
+
+56.
+K
+56.考点：立体几何因为高为三倍根号三，且每个面都是等边三角形，所以每条棱的长度为六，因此八条棱的长度和为四十八。选K。
+
+57.
+D
+57.考点：平面几何（－3，0）到点的距离为四，不符合题目要求，所以排除。根据勾股定理，发现剩余两点到（－7，0）和（1，0）的距离皆为五。选D。
+
+58.
+J
+58.考点：数论从二到五十一共有二十五个偶数，只有十二、二十四、三十六和四十八复合要求，所以百分比为四比二十五，即百分之十六。选J。
+
+59.
+A
+59.考点：函数首先，g在f下方，所以常数项不能是加四，应该是减四，因此排除B和C。g还在f右边，所以x应该被减了二，因此排除E。g还比f的变化率更缓慢，说明g在f的基础上乘了一个小于一的常数，即二分之一，因此排除D。选A。
+
+60.
+K
+60.考点：逻辑关于”如果A，则B的”的逻辑命题正确的描述只可能是它的逆否命题，即“如果不B，则不A”。本题中的逻辑关系为“如果下雨，则游行取消”，因此正确的逆否命题为“如果游行不取消，则没有下雨”。选K
+
+Reading
+1.
+A
+1 A 第一人称视角，前三段“我”在回忆家族的生意的变化，后四段描写我在家族企业的位置。
+   B 我不是founder 
+   C 没有提及fall out，争吵
+   D tribute多指对死人致敬。并且不止是对儿子接管家族企业的描述   
+
+2.
+H
+2 H 对人物Jack的提问，找到文章所有出现Jack的句子。lines 11—15改名字是我父亲和叔叔的主意。
+   F line 20 
+   G J lines 6—10
+
+3.
+A
+3 A 问题是，叙述者明确表明对那个问题不持有坚定的立场。本题考查的是“我”的心理描写，stand firm对应的是lines 34—37的反问句。，本质上是对反问句作用（强调）的考查。
+
+4.
+H
+4 H 叙事者父亲的描述集中在第二段和第三段，通过题干的words定位到lines 24—29 
+
+5.
+C
+5 C 原文的意思是Jack挣钱就像印钞票似的，卡车每天都要出去工作，他还需要雇佣更多的人。
+
+6.
+G
+6 G 本题是对暗喻的考查（metaphor）在阅读时识别并标记，在 lines 54—55 twin angels of innocence and ignorance，天真和无知的两个双生天使
+
+7.
+D
+7 D 女朋友如何看待叙事者在家族企业的角色，但凡在小说中出现的角色都是必考的，不管有没有名字以及出现次数，因此在阅读时要注意标记。在lines 59—63 选项和原文对应 
+
+8.
+G
+8 G 根据大写定位到lines 64—65  我是Hank Battle的儿子，因此Hank是叙事者的父亲
+
+9.
+D
+9 D 女儿对父亲的snide 但凡在小说中出现的角色都是必考的，不管有没有名字以及出现次数，因此在阅读时要注意标记。在lines 75—79 选项和原文对应
+
+10.
+J
+10 J 大意是我对每个景点的旅馆等级都很清楚，熟知每一个景点。
+社会科学：
+
+11.
+D
+11 D 根据题干的qualities of cork定位到第五段的首两句答案在段内，把题干的关键信息提取出来，再和每段的首两句进行对应，就可以判断出答案的位置。
+     A line 54 
+     B line 60 
+     C 62
+
+12.
+H
+12 H 最后一段的段落主旨是第一句cork制成的产品种类非常之多，之后列举了各种制成品
+     F 没有提到作者的公司
+     G 没有概括全文
+     没有提到potential uses
+     
+
+13.
+B
+13 B 问题是，做为树的一部分的bark，和树的那部分是有区别的。原句是bark和wood都占树的体积的6—22%，表明bark和wood是两种不同的东西，仅是占比相同
+
+14.
+H
+14 H 根据题干的most important qualities的最高级定位到lines 5—8 ，阅读时注意标记最高级，这是一个常考点
+
+15.
+D
+15 D 根据题干的大写定位到 lines 18—19 选项和原文对应
+
+16.
+F
+16 F 根据题干的harvest cork定位到第三段首两句，答案在lines lines 23—26，把题干的关键信息提取出来，再和每段的首两句进行对应，就可以判断出答案的位置。
+
+17.
+B
+17 B 根据题干的timing回找到第三段的时间标识词，在line 30—31 收割期每隔8—10年
+
+18.
+F
+18 F 问题是被收割过的树和未被收割过的树，以生存时间的长短相比，被收割过的树是怎样。根据题干的harvesting定位到第三段，被收割过的树活130—150，未被收割过的树活300—400，把题干的关键信息提取出来，再和每段的首两句进行对应，就可以判断出答案的位置。
+
+19.
+B
+19 B 根据题干的removing bark定位到第四段的首两句，对应separated和stripping答案在 lines 39—45，把题干的关键信息提取出来，再和每段的首两句进行对应，就可以判断出答案的位置。
+
+20.
+J
+20 J 根据题干largest volume定位到倒数第二段的首两句答案在 lines 66—70，把题干的关键信息提取出来，再和每段的首两句进行对应，就可以判断出答案的位置。
+人文 
+
+21.
+B
+21 B 前四段讲摄影的优点，从第四段最后一句话看出，摄影还是存在争议的。
+
+22.
+H
+22 H lines 48—53 大意是，照片会削弱真实的体验，使我们对艺术的理解出现错误。
+
+23.
+C
+23 C 问题是作者用了什么方式来直接支持她的观点：daguerreotype并不只是简单的肖像画。第二段，作者列举了19世纪的使用daguerreotype技术来给名人制作肖像。通过列举了这些名人，证明了作者的观点。
+
+24.
+G
+24 G 根据题干定位到第二段，本段的最后一句，通过这样做，表明镜头可以要比人眼看得更多的关于人性的东西。
+
+25.
+D
+25 D 原文中的museumgoers只喜欢马克杯上的梵高，不觉得墙上的真迹更好。乐迷宁可在家听演唱会也不愿意去看现场。
+
+26.
+J
+26 J 根据题干的人名定位到第一段lines 3—7 Daguerre的的设计是建立在Niepce的工作基础之上的
+
+27.
+B
+27 B 节选的意思是daguerreotype技术具有复制现实的能力。在 lines 10—11  Daguerre的观点亦是如此。
+
+28.
+H
+28 H 小说之所以是现代小说，是因为它里面描述了现代的科技，daguerreotype技术
+
+29.
+A
+29 A 原文大意，图像要比真实的东西还要重要，图像是有记忆性的。
+     B 没有提到摄影师的视角
+     C to explore and remember原文没提
+     D 掩盖丑陋的生活
+
+30.
+J
+30 J  根据人名定位到最后一段，主旨句是第一句，即摄影仍然有一种魔力。之后描述的Mitchell是一个证明该观点的例子。
+自然科学
+
+31.
+A
+31 A 前三段描写了Merian对于自然变化的探索，后面讲科学家的发现，即细胞死亡。
+     B 没有提到女性的意义
+     C 没有提到Merian画的艺术性
+     D 不只有frogs
+
+32.
+H
+32 H 第一段的brilliantly和第二段的remarkable，其余选项皆为负向。
+
+33.
+A
+33 A line 1 chanced表明是偶遇
+
+34.
+G
+34 G 根据人名定位到第二段中间，在1600s晚期，专家们仍然依赖Pliny这个古典世界的权威去解决世界上的难题，特别是在Pliny自信的认为蝴蝶是从露水中生长出来的这个情况下。对Pliny的评价是负。
+      F H 正向
+      J 骗子，受到公众的嘲讽
+
+35.
+B
+35 B 显而易见
+
+36.
+F
+36 F 问题是，和Vogt处于同时代的人对他的关于Alytes obstericans的著作的看法和反应是什么。根据人名定位到第五段最后一句话，Vogt认为自己的观察并不重要，并最终这一观察被遗忘。
+
+37.
+B
+37 B 第六段主旨是最后一句话，如果想要有成型的动物活昆虫，必须要有细胞死亡。
+
+38.
+H
+38 J 第二段最后一句话。在无法定位的情况下，寻找段落的首尾句
+
+39.
+A
+39 A 大意是Merian仔细观察，以寻找变异的迹象，并在这一关键时刻把他们描绘下来。
+
+40.
+J
+40 J 原文是这个观点 not easy to accept，很难被接受
+     F 安慰
+     G 敬畏
+     H 好奇
+
+Science
+1.
+B
+1.根据figure 1，从2msec到大约90msec这个阶段，纵坐标force增加；大约90msec之后，force减少。符合force既又增又有减的这个时间段只需要包括90msec即可。故选50-100msec
+
+2.
+F
+2.时间跨度从小到大排序。根据table 1中给出的概念，Latent period应该是force增加之前的阶段，对应table 2 里的0-2msec; Contraction phase 对应force增加，即2-90msec；relaxation phase对应force下降的阶段，即90-250msec，所以latent<contraction<relaxation
+
+3.
+B
+3.从start of the twitch到greatest force的时间，大概就是从0-90msec
+
+4.
+G
+4.最大force的二倍，根据figure 1，最大force是7.5，所以7.5*2=15
+
+5.
+C
+5.看figure 1 下面那个圆圈里的图，那是一张放大图。可以精确看到0-2msec是force保持为0，没有增减。所以是2msec以后肌肉才产生力量
+
+6.
+G
+6.看figure 2 中的短虚线，当纵坐标altitude为19-21km时，横坐标为0
+
+7.
+B
+7.看figure 2中的实线和长虚线。实线的横坐标最大值为7 mPa， 长虚线横坐标最大值为20 mPa
+
+8.
+J
+8.Air temperature vary the least 气温差异最小，看figure 1 中短虚线和长虚线最接近的点的纵坐标。当纵坐标为25km长短虚线相交，此时温度差异最小
+
+9.
+A
+9.题目中问的是Oct. 1st 这天的O3 partial pressure，应该介于 Sep. 15th 和 Oct. 15th 之间。在高度为18km时，应该不大于Sep. 15th 这天的partial pressure，只有less than 4 mPa 符合
+
+10.
+H
+10.Intensity of radiation greatest 意味着O3最少，也就是O3 partial pressure 最低。看figure 2的三条曲线，短虚线代表的Oct. 15th 是横坐标最小的
+
+11.
+C
+11. Student 1 & 2 & 3都说烧杯里装的是solution（solvent+solute），solution就是溶剂+溶质的mixture
+
+12.
+J
+12.Student 1 提到了evaporate蒸发，所以是蒸发过程中，液体变为气体，导致了液体减少
+
+13.
+A
+13.Density密度的大小通过上浮或下沉来判断，密度低的浮起来，密度高的沉下去。根据第一段第5行第二个单词“floated”，白色固体漂浮，说明白色固体的密度比液体小
+
+14.
+G
+14.题干中说“没有溶质的话，任何已知液体都不是绿的”，说明不可能存在pure，green liquid，所以student 4错
+
+15.
+D
+15.Student 1说溶剂是绿色的，student 3 说溶质是绿的，二人说法不一样
+
+16.
+J
+16.只有student 4说钱12min没有蒸发，所以前12min的质量才有可能恒定
+
+17.
+B
+17.析出的固体+无色液体=绿色溶液，这符合student 2 的说法
+
+18.
+J
+18.Surviving rate decrease more， 看figure 2，四选项中，group 7第一天的斜率最大，即存活率（看纵坐标percent surviving）下降得最多
+
+19.
+B
+19.根据table 1 和figure 2，从group2-8，照射的UVB剂量越大，成活率越低
+
+20.
+F
+20.看figure 1，无论是否加了过滤防护，只有H. regilla 的存活率能达到95%以上，即死亡率（mortality）小于5%
+
+21.
+B
+21.阅读experiment 3的文字部分得知：photolyase activity越活跃，移除CBPDs的能力就越强，受损的DNA就越容易被修复，推断出该物种的成活率就越高。参考figure 3， H. regilla 的photolyaseactivity最活跃，所以该物种移除CBPDs的能力最佳
+
+22.
+G
+22.根据文章第二段第二行，每个enclosure有150只蛋，没中过滤条件下放置4个enclosure。可知每种过滤条件下的蛋的数量为4*150=600.   再看figure 1，参考B. boreas这组灰色和黑色的数据；FB条件下存活率为90%（0.90），存活数量为0.90*600；No filter条件下存活率率仅为60%（0.60），存活数量为0.60*600. 因为题中问的是“how many more”所以整个算式采用减法
+
+23.
+A
+23.根据figure 1, R和B这两个物种都是在FB（filter that block UVB）的条件下成活得更好的，说明UVB会导致其成活率下降
+
+24.
+F
+24.关注文章第一段对RH（relative humidity相对湿度）的概念介绍。题干要求moisture content of the air 最低，即RH最低，所以参考table 2选Tank 1
+
+25.
+C
+25.观察table 3，发现RH越高，对应的Aqueoous tension 越大。75%<81%<96%, 所以KCl对应的aqueous tension的取值范围应是110-140之间
+
+26.
+G
+26.3组实验的主要区别就是温度不同，分别为10,30,和60. 带入III. NaCl 后发现，当温度为30和60度时，RH均为75%，所以排除III
+
+27.
+D
+27.看table 2 & 3，NaCl的RH同为75%的时候，aqueous tension分别为24和110，二者不等，所以选NO
+
+28.
+F
+28.考查实验设计的目的，看文章第三段，On Day 1……实验前使用了drying agent。Drying agent的功效是什么，用它的目的就是什么，非常直白，就是干燥除去水分用的
+
+29.
+D
+29.考查自变量和因变量。自变量是试验中设计好的一些参数，因变量是测量到的数值。RH是测量出来的，所以是因变量。
+
+30.
+J
+30.排序题，密度从小到大。看table 1，Ethanol 78<water 997<ethylene 1130<Carbon tetra 1580
+
+31.
+C
+31.根据figure 1， 密度越大，PL越大，二者成正比，所以carbon tetrachloride的密度大约是ethanol密度的二倍，所以其PL 应该也是ethanol的二倍
+
+32.
+H
+32.m=ρV，m=1130*3=3390kg
+
+33.
+A
+33.方法一：笨笨但学渣通用法：看figure 2，取PL线段上的任意一点。例如当横坐标为10时，纵坐标约为100，推出PL=10*D，与A选项最接近
+方法二：厉害的学霸法：液体压强P=ρgh, h深度在本文中就是D，所以P=ρgD
+ G=9.8，ρ水=1  推出  P=9.8D
+
+34.
+H
+34.PL+PA=PT ，看figure 2，横坐标为 20，对应PT的纵坐标为300
+
+35.
+C
+35.看figure 2， 对应organic detritus，5块wetland的Se concentration 大约在7-10之间，所以平均值也在这个范围内
+
+36.
+G
+36.考查对照组，实验过程中，不做任何处理的为对照组，参考table 1， 发现wetland 2里没有任何植物，所以wetland 2 为对照组
+
+37.
+C
+37.参考table 1和figure 1， wetland 2 的Se concentration 最高，但RT最低，所以该说法错误，选No
+
+38.
+H
+38.根据 figure 2，Wetland 3里plant litter，organic detritus，和top of soil里的Se 浓度最高，说明对Se的清理越彻底，那么wetland 3应该最快恢复，变得无毒害
+
+39.
+A
+39.看figure 1 的纵坐标，说明Study 2 研究的是outflow（流水）里面的Se浓度；再看figure 2， study 3里研究的是plant litter，organic detritus，和top of soil里的Se 浓度
+
+40.
+F
+40.根据figure 2， wetland 1 & 3 & 4里面都是plant litter含Se浓度最高，说明植物更能吸收Se。所以选yes
+
